@@ -7,4 +7,7 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="lib" path="D:\ProjectsAndStuff\CSC305 HW\csc305-project-assignment-1\project-assignment-1-Paul-Motter\project_1\lib\jackson-annotations-2.12.3.jar"/>
+	<classpathentry kind="lib" path="D:\ProjectsAndStuff\CSC305 HW\csc305-project-assignment-1\project-assignment-1-Paul-Motter\project_1\lib\jackson-core-2.12.3.jar"/>
+	<classpathentry kind="lib" path="D:\ProjectsAndStuff\CSC305 HW\csc305-project-assignment-1\project-assignment-1-Paul-Motter\project_1\lib\jackson-databind-2.12.3.jar"/>
 </classpath>
